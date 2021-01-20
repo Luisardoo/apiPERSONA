@@ -20,5 +20,5 @@
         [DisplayFormat(ApplyFormatInEditMode = true,DataFormatString ="{0:dd/MM/YYYY}")]
         public DateTime Birthday { get; set; }
         public SexType Sex { get; set; }
-    }
+    }   
 }
